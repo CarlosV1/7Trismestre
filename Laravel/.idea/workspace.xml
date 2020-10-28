@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="355707fe-4601-4696-ac65-9bf03cc63dc6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/primer-proyecto/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/composer" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/primer-proyecto/vendor/filp/whoops" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jQi8nDnzegU3WvwWsAS5cDjbAi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/primer-proyecto" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="355707fe-4601-4696-ac65-9bf03cc63dc6" name="Default Changelist" comment="" />
+      <created>1603742559077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603742559077</updated>
+      <workItem from="1603742560136" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603742619464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603742619464" />
+  </component>
+</project>
